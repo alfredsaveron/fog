@@ -22,6 +22,8 @@ There are no floating bubbles, colorful dusts, or flashy indicators. The atmosph
 ### 2. Warden Darkness
 When an atmospheric trigger occurs in the Abyss, the player is struck with a pure, black **Darkness** effect for **10 seconds** (200 ticks), simulating a warden passing by in the dark.
 
+<img src="abyss.png" width="100%">
+
 ### 3. No-Repeat Message Pools
 To prevent spam, the plugin tracks which thoughts a player has already experienced during their current zone visit. It will never show the same text twice until they leave the zone (which resets their history). If a player has seen everything in a zone, the whispers fade to absolute silence.
 

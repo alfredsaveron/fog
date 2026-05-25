@@ -35,7 +35,7 @@ The help and status interfaces are designed with a retro psychological horror ae
 
 ---
 
-![Help](help.png)
+<img src="help.png" width="100%">
 
 ## Commands
 
@@ -51,6 +51,8 @@ The help and status interfaces are designed with a retro psychological horror ae
   Reloads the config file instantly without requiring a server reboot.
 
 ---
+
+<img src="time.gif" width="100%">
 
 ## Configuration (`config.yml`)
 

@@ -16,7 +16,7 @@ As players descend deeper into the earth, the world slowly changes. FOG tracks p
 
 ## Features
 
-### 1. Pure Isolation (Zero Particles)
+### 1. No Particles
 There are no floating bubbles, colorful dusts, or flashy indicators. The atmosphere is built purely on ambient sound cues, raw text, and sensory deprivation.
 
 ### 2. Warden Darkness

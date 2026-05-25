@@ -1,5 +1,3 @@
-# f o g
-
 ![FOG Banner](banner.png)
 
 A moody PaperMC plugin that turns underground mining into a quiet, introspective, and slightly unsettling journey. It completely strips away flashy particles to focus on isolation, soundscapes, and raw psychological depth.

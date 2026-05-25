@@ -105,3 +105,9 @@ atmospheres:
 ### How to install:
 1. Put `fog-1.0.0.jar` into your server's `plugins/` directory.
 2. Restart or reload the server.
+
+---
+
+## Disclaimer
+
+Please keep in mind that there might be compatibility conflicts with other plugins on your server.

@@ -1,0 +1,18 @@
+name: FOG
+version: '${project.version}'
+main: com.alfredsaveron.fog.FogPlugin
+api-version: '1.21'
+description: A moody PaperMC plugin for introspective and quiet underground atmosphere.
+author: alfredsaveron
+
+commands:
+  fog:
+    description: Control the FOG atmosphere engine.
+    usage: /fog <on|off|reload|status>
+    permission: fog.admin
+    aliases: [atmosphere, atmos]
+
+permissions:
+  fog.admin:
+    description: Allows use of all FOG commands.
+    default: op

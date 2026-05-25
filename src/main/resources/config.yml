@@ -1,0 +1,69 @@
+# ============================================================
+#  FOG — Atmospheric Experience
+# ============================================================
+
+depth:
+  shallow: 59
+  deep: 29
+  abyss: -1
+
+intervals:
+  shallow: 120
+  deep: 300
+  abyss: 600
+
+atmospheres:
+
+  # ─── (Y: 59 → 30) ───────────────────────────
+
+  shallow_thoughts:
+    zone: shallow
+    messages:
+      - "some things just take time, but i don't mind waiting. it's warm near the furnace."
+      - "i don't restart worlds because they're bad. i restart them because i miss beginnings."
+      - "i write down coordinates because i'm scared of losing places that mattered."
+      - "i never broke the jukebox. i just stopped putting discs in."
+      - "the wheat is growing but i'm not sure i'll be here to harvest it."
+      - "i built a house for two but only i have the door's coordinates."
+      - "sometimes i place torches not because it's dark but because i want to feel like someone's home."
+      - "the chest is full but it still feels empty."
+      - "i stopped naming my swords because i kept losing the ones that mattered."
+      - "i leave doors open in villages i'll never come back to."
+    sounds:
+      - "minecraft:ambient.cave"
+
+  # ─── (Y: 29 → 0) ──────────────────────────────
+
+  deep_reflections:
+    zone: deep
+    messages:
+      - "i mined for hours and found no diamonds but i didn't really fail i just forgot i was looking for coal"
+      - "when the topic is all the diamonds i missed because of my stone pickaxe"
+      - "are we close as a crafting table and a furnace"
+      - "i keep digging because going back up means admitting there's nothing down here."
+      - "every iron vein feels like a conversation that almost meant something."
+      - "i hear lava but i don't move. it's the only warmth this deep."
+      - "the last person who mined this chunk didn't finish. i wonder why they stopped."
+      - "i've been down here long enough to forget what the sky texture looks like."
+      - "i enchanted my pickaxe with fortune but what i really needed was silk touch on a memory."
+      - "my torches are running out but i keep going because turning around feels worse."
+    sounds:
+      - "minecraft:ambient.cave"
+      - "minecraft:block.portal.ambient"
+
+  # ─── (Y: -1 → -64) ───────────────────────────
+
+  abyss_echoes:
+    zone: abyss
+    messages:
+      - "you feel like seeing village torches in the distance after walking through darkness for too long"
+      - "was what we had real or cake?"
+      - "bedrock doesn't break. some things just aren't meant to go deeper."
+      - "i found ancient debris but the thing i'm looking for isn't in any loot table."
+      - "the void is one block away and i've never felt closer to understanding it."
+      - "i wonder if the warden is lonely too or if he just got used to the dark."
+      - "i carved my name into deepslate but the chunk will unload and no one will read it."
+      - "the last torch went out three minutes ago. i'm still here."
+    sounds:
+      - "minecraft:entity.warden.ambient"
+      - "minecraft:music_disc.11"

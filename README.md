@@ -96,11 +96,11 @@ atmospheres:
 
 ---
 
-## Requirements & Build
+## Requirements & Compatibility
 
-* **Platform**: PaperMC 1.21.1+
-* **Java**: Version 21
-* **Build tool**: Maven
+* **Minecraft Version**: PaperMC 1.21, 1.21.1, and all 1.21.x sub-releases
+* **Java Version**: Java 21 or higher
+* **Build Tool**: Maven (only if building from source)
 
 ### How to install:
 1. Put `fog-1.0.0.jar` into your server's `plugins/` directory.

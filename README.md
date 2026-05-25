@@ -105,4 +105,3 @@ atmospheres:
 ### How to install:
 1. Put `fog-1.0.0.jar` into your server's `plugins/` directory.
 2. Restart or reload the server.
-3. Dive deep and start mining.
